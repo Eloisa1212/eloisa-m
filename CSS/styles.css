@@ -1,0 +1,19 @@
+h1{
+  color: mediumpurple;
+ }
+body{
+  background-color: aliceblue;
+}
+h2{
+  color: coral;
+ }
+ hr{
+  border-color: mediumpurple;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%
+ }
+ body {
+   background-image: url("https://i.pinimg.com/originals/45/86/80/45868076ecf419d74c3bdf25bae038bc.jpg"), url("paper.gif");
+   background-color: #cccccc;
+ }
